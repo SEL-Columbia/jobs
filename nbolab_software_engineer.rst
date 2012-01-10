@@ -11,8 +11,8 @@ You will get to work with a dynamic team both in Kenya and New York City. Some t
 Some projects we’re currently engaged on include:
 
  - SharedSolar.org -  A pre-paid solar energy solution being deployed in rural Africa (http://sharedsolar.org)
- - Assisting African governments do faciliy mapping (In Nigeria we are at 30,000+ clinics, schools and water points and counting!)
- - ChildCount.org - An SMS based approach for improving child and maternal health
+ - Assisting African governments to do faciliy mapping (In Nigeria we are at 30,000+ clinics, schools and water points and counting!)
+ - ChildCount+ - An SMS based approach for improving child and maternal health
  - formhub.org - a mobile data collection community
  - Network Planner - spatial planning software used for infrastructure (electrification) planning.  This was used to do Kenya's rural electrification planning and now is being used by numerous countries in Africa.
 
