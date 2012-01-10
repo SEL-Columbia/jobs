@@ -1,3 +1,5 @@
+*Software Engineer*
+
 We are looking for skilled and passionate Software Engineers to join our growing software engineering team in Nairobi.
 
 As part of an extension lab of the The Modi Research Group at the Earth Institute (Columbia University), you would join a team of leading scientists and software engineers dedicated to building software tools that makes delivery of key services smarter and more efficient.
