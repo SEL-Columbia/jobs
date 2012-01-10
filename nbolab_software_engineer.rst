@@ -1,4 +1,4 @@
-*Software Engineer*
+**Software Engineer**
 
 We are looking for skilled and passionate Software Engineers to join our growing software engineering team in Nairobi.
 
