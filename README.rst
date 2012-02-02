@@ -1,7 +1,7 @@
 We are looking for various positions to join us at the Modi Research Group at the Earth Institute in Columbia University. 
 Current positions include:
- - Senior Software Engineer - https://github.com/modilabs/jobs/blob/master/Senior_Software_Eng.rst
  - Front-end Software Developer - https://github.com/modilabs/jobs/blob/master/Frontend_Software_Dev.rst
+ - Software Developer - https://github.com/modilabs/jobs/blob/master/Software_Developer.rst
 
 We make software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa and India).
 
