@@ -1,8 +1,8 @@
 We are looking for various positions to join us at the Modi Research Group at the Earth Institute in Columbia University. 
 Current positions include:
- - Front-end Software Developer - https://github.com/modilabs/jobs/blob/master/Frontend_Software_Dev.rst
+ - Front-end Software Developer - https://github.com/modilabs/jobs/blob/master/Frontend_Software_Dev.rst - or email pp2427 AT columbia DOT edu
+ - Visual / Interaction Designer - http://github.com/modilabs/jobs/blob/master/Visual_Designer.rst - or email pp2427 AT columbia DOT edu
  - Software Developer - https://github.com/modilabs/jobs/blob/master/Software_Developer.rst
- - Visual / Interaction Designer - please email pp2427 AT columbia DOT edu your resume directly.
  - Other Software Engineers with a passion for development - please email pp2427 AT columbia DOT edu your resume directly, and we'll chat.
 
 We make software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa, India and Haiti).
