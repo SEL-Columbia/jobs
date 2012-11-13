@@ -7,24 +7,24 @@ The initial project will focus on processing and analyzing data collected over 2
 
 Tasks
 -----
- *  Work on the analysis of incoming data from various research instruments: large-scale infrastructure surveys, in depth interviews, etc. 
- *  Quantitative data: Clean and logically check household survey data in preparation for analysis; help run analysis relevant for the research project; help produce required indicators.
- *  Develop new processes for qualitative and quantitative “live” data review to incorporate into the mobile data collection efforts the team advises.
- *  Work on research related computations and analysis as required under principal investigator’s guidance. 
- *  Help software developers automate cleaning and analysis processes into a mix of supervised and unsupervised algorithms.
- *  Summarize findings of analyzed surveys, qualitative information in presentations, reports and contribute towards research articles writing.
- *  Contribute to any additional needed tasks to ensure the timely delivery of research projects, as per the direction of the principal investigators: participate in weekly meetings, take on additional segments of analysis, background research, etc. 
+*  Work on the analysis of incoming data from various research instruments: large-scale infrastructure surveys, in depth interviews, etc. 
+*  Quantitative data: Clean and logically check household survey data in preparation for analysis; help run analysis relevant for the research project; help produce required indicators.
+*  Develop new processes for qualitative and quantitative “live” data review to incorporate into the mobile data collection efforts the team advises.
+*  Work on research related computations and analysis as required under principal investigator’s guidance. 
+*  Help software developers automate cleaning and analysis processes into a mix of supervised and unsupervised algorithms.
+*  Summarize findings of analyzed surveys, qualitative information in presentations, reports and contribute towards research articles writing.
+*  Contribute to any additional needed tasks to ensure the timely delivery of research projects, as per the direction of the principal investigators: participate in weekly meetings, take on additional segments of analysis, background research, etc. 
 
 Requirements
 ------------
- *  Proficiency with data analysis software (R knowledge highly preferred; STATA/Excel/SPSS knowledge with a confidence to learn R quickly welcome.)
- *  Bachelors degree with a focus on quantitative and/or data-based techniques. Masters degree in related field a plus, students pursuing current masters welcome.
+*  Proficiency with data analysis software (R knowledge highly preferred; STATA/Excel/SPSS knowledge with a confidence to learn R quickly welcome.)
+*  Bachelors degree with a focus on quantitative and/or data-based techniques. Masters degree in related field a plus, students pursuing current masters welcome.
 
 Preferred Qualifications
 ------------------------
- *  Master degree in relevant fields (Economics, social sciences, international development, Industrial Operations Research).
- *  Ability to create programmed visualizations, using R/javascript/processing, etc.
- *  Experience in quantitative research, and managing large datasets.
- *  Experience with digital data collection methodologies and processes.
+*  Master degree in relevant fields (Economics, social sciences, international development, Industrial Operations Research).
+*  Ability to create programmed visualizations, using R/javascript/processing, etc.
+*  Experience in quantitative research, and managing large datasets.
+*  Experience with digital data collection methodologies and processes.
 
 
