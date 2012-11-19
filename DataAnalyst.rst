@@ -27,4 +27,8 @@ Preferred Qualifications
 *  Experience in quantitative research, and managing large datasets.
 *  Experience with digital data collection methodologies and processes.
 
+Apply
+-----
+Send an email to pp2427 AT columbia DOT edu with "Data Analyst Application" as the subject, your resume, and a link to your github account if available.
+
 
