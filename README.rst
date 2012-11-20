@@ -22,6 +22,6 @@ Some projects we’re currently engaged on include:
  - Spatial Planner  - Spatial planning software used for facility-based planning (http://spatialplanner.modilabs.org).
 All code is open source; most can be found on http://github.com/modilabs
 
-.. [1] You'll be working primarily on http://github.com/modilabs/bamboo, pushing it where you think dynamic data analysis should be taken. Apply [here](http://jobs.columbia.edu/applicants/Central?quickFind=133309)
-.. [2] Turns out displaying data in the right way matters a lot in developing country environments, which are often data-scarce. Moreover, bandwidth limitations imply that much of the analysis and interesting work has to be done on the client-side. Javascript ninjas are welcome. Apply here: https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1353086464221
+.. [1] You'll be working primarily on http://github.com/modilabs/bamboo, pushing it where you think dynamic data analysis should be taken. Apply here: http://jobs.columbia.edu/applicants/Central?quickFind=133309
+.. [2] Turns out displaying data in the right way matters a lot in developing country environments, which are often data-scarce. Moreover, bandwidth limitations imply that much of the analysis and interesting work has to be done on the client-side. Javascript ninjas are welcome. Apply here: http://jobs.columbia.edu/applicants/Central?quickFind=133380  
 .. [3] R coders will be welcome with open arms :) Full description at https://github.com/modilabs/jobs/blob/master/DataAnalyst.rst
