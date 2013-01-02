@@ -1,7 +1,7 @@
 Software Engineer
 -----------------
 
-We are looking for a Software Engineer to join our team at the Nairobi ModiLabs at the Columbia Global Center | Africa.
+We are looking for a Software Engineer to join our team at the Nairobi ModiLabs at the Columbia Global Centers | Africa.
 
 We build software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa, India and Haiti). We work directly with governments, non-profit organizations, and other institutions in the developing world, and help solve real-world problems with software. The problems we tackle are often related to data and data flow; the tools we build incorporate geospatial planning, open-data webservices, operational optimization algorithms, mobile phone-based data collection, data dashboards, and the like.  We are primarily a Python and Javascript shop but looking for people with a passion for software engineering above all.
 
