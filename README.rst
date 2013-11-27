@@ -5,10 +5,8 @@ We build software to make development process smarter and to bring new services 
 If that excites you, send an email to pp2427 AT columbia DOT edu with a resume.
 If you're the right person for the team, that matters more than even the position we are hiring for at the moment.
 
-Official openings for May 2013:
- - Senior Software Engineer - [1]_
- - Front-end Software Developer - [2]_
- - Other Software Engineers with a passion for development - please email pp2427 AT columbia DOT edu your resume directly, and we'll chat.
+Official openings for Nov 2013:
+ - Android Developer - please email pp2427 AT columbia DOT edu your resume directly
 
 You will get to work with a dynamic team in New York, and travel to field sites in Africa, Haiti and India to develop and implement solutions with clients on the ground. This is critical to our process as we do agile development heavily based on iterative user feedback.
 
