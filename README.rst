@@ -24,6 +24,3 @@ Some projects we’re currently engaged on include:
  - bamboo - Dynamic data analysis. (http://bamboo.io)
  - Network Planner - Spatial planning software used for infrastructure (electrification) planning.  Used for large-scale planning in Ghana, Kenya, Senegal, Liberia and Indonesia. (http://networkplanner.modilabs.org)
 
-.. [1] You'll be working primarily on the Nigeria scale-up project, helping figure out data systems at country scale, and for an amazing cause! Apply here: http://jobs.columbia.edu/applicants/Central?quickFind=133309
-.. [2] Please apply by sending a resume directly to PP2427 at columbia dot edu with a resume and "Front-end Software Applicant" in the title. 
-
