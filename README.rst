@@ -4,38 +4,56 @@ We build software to make development process smarter and to bring new services 
 
 You will get to work with a dynamic team in New York, and travel to field sites in Africa, Haiti and India to develop and implement solutions with clients on the ground. This is critical to our process as we do agile development heavily based on iterative user feedback.
 
-If that excites you, send an email to pp2427 AT columbia DOT edu with a resume.
+If that excites you, send an email to dp2704 AT columbia DOT edu with a resume.
 If you're the right person for the team, that matters more than even the position we are hiring for at the moment.
 
-Official openings:
+## Official openings:
 
-1. Android Developer - email pp2427 AT columbia DOT edu your resume
+####  Technical Project Manager 
 
-2. Technology Researcher/Coordinator (Karnataka, India based) - email pp2427 AT columbia DOT edu your resume:
- - Ability to develop comprehensive understanding of health system in the state
- - Ability to develop understanding of the health data management ecosystem including data collection, analysis and reporting
- - Knowledge of m-health tools  (but not actual coding) 
- - Ability to act as a liaison and interact with health officials, community level workers, technology team and research team.
- - Experience working in the field to discover insights firsthand with a foundation in qualitative research methods
- - Experience uncovering and articulating insights to help the team read between the lines
- - Ability to make prioritization decisions and communicate reasoning to the team
- - Ability to work flexibly and efficiently
- - Strong writing and communication skills and the aptitude to handle competing messages and priorities with multiple audiences
- - Ability to live and work in rural india.
- - Fluency in written and verbal English is a must; Hindi and Kannada a major plus.
- - Ability to work with female health workers, inspiring ease in sensitive health situations
+What you will do:
+ * Work directly with developing world partners and help define the technology / data systems to solve their problems.
+ * Participate in some of the software engineering and data analysis as relevant.
+ * Act as "translator" between field reality and the technical (software, data) domain. Balancing the two needs.
+ * Play a major part in communicating the work of the Sustainable Engineering Lab, defining direction in the projects we work on.
 
-Perks of working with the Sustainable Engineering Lab at Columbia Univeristy:
- - Get to work on highly impactful problems in the developing world, such as helping rural nurse mid-wives keep track of patients in rural India.
- - Write open source code, and build open products for others to use, while making real-world impact.
- - Work with the same tools industry leaders are using. NoSQL databases, R, pandas, machine learning techniques, and other tools that today's data scientist and data engineers are talking about: we use them!
- - Work with a great (and diverse) team in New York, Kenya, Mali, and Denver.
- - Interact with professors, and maybe take classes at Columbia. 
- - Get to travel to interesting places for work!
+You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced Int'l Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
 
-Some projects we’re currently engaged on include:
- - Nigeria scale-up project - Taking the lessons of the Millennium Villages (http://www.millenniumvillages.org/) to scale in a partnership with Nigeria's Presidential taskforce on the Millennium Development goals. 
- - formhub - Mobile data collection made simple. (http://formhub.org)
- - bamboo - Dynamic data analysis. (http://bamboo.io)
- - Network Planner - Spatial planning software used for infrastructure (electrification) planning.  Used for large-scale planning in Ghana, Kenya, Senegal, Liberia and Indonesia. (http://networkplanner.modilabs.org)
+#### Data Scientist / Analyst
 
+What you will do:
+ * Make sense of datasets relating to access to health, education, water and electricity in developing nations.
+ * Develop data pipelines, data visualizations, analytical reports.
+ * Participate in the monitoring of data collection processes, provide recommendations to improve it.
+ * Interact directly with partners in developing nations to create data solutions to their needs.
+ * Participate in training data teams at partner organizations, "transfer" your work.
+ * Document your work excellently, make it reproducible, and write how-to articles when relevant
+
+You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced Int'l Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
+
+#### Software Engineer
+
+What you will do:
+ * Work with exciting projects in the developing world (example domains: mobile data collection, electricity planning, smart solar mini-grids, rural healthcare).
+ * Design, create, and improve open source software to solve hard problems in the developing world.
+ * Joining a like-minded peer group of hackers working in python, R, go, mongodb, nodejs, and other interesting technologies, focused on making the world suck less. 
+ * Travel to developing world settings, and work directly in the environments your software is deployed in.
+
+There are no sales/MBA types, no scrum masters, and we strongly disapprove of code written in Enterprise FizzBuzz style. You will work with great software engineers and data scientists, as well as experts who have been working in International Development contexts for many years.
+
+## Projects
+
+Have a look at our site for some of the [projects](http://sel.columbia.edu/projects/) we are working on, and some [software tools](http://sel.columbia.edu/products-tools/) we are building to solve some of the problems we encounter.
+
+Project examples:
+
+ * Nigeria Scale-up Initiative - Taking the lessons of the Millennium Villages (http://www.millenniumvillages.org/) to scale in a partnership with Nigeria's Presidential taskforce on the Millennium Development goals. [See related blog posts](http://sel.columbia.edu/category/nigeria-scaleup/)
+ * [Dristhi](http://sel.columbia.edu/dristhi/) - Mobile-based patient tracking for rural nurse midwives. 
+ * [Solar Irrigation](http://sel.columbia.edu/projects) - Smart solar irrigation in Senegal.
+
+Software examples:
+ * [Formhub](http://formhub.org) - Mobile data collection made simple. 1000s of users, millions of surveys collected.
+ * [Network Planner](http://networkplanner.modilabs.org) - Spatial planning software used for infrastructure (electrification) planning.  Used for large-scale planning in Ghana, Kenya, Senegal, Liberia and Indonesia.
+ * [bamboo](http://bamboo.io) - Open Source Dynamic Data Analysis.
+
+More at http://sel.columbia.edu
