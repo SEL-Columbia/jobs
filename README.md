@@ -66,3 +66,4 @@ Software examples:
  * [bamboo](http://bamboo.io) - Open Source Dynamic Data Analysis.
 
 **More: http://sel.columbia.edu**
+<link rel="stylesheet" href="http://sel.columbia.edu/wp-content/themes/migration-theme/style.css" type="text/css" media="screen,projection" />
