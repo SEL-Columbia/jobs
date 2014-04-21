@@ -21,6 +21,7 @@ If that excites you, send an email to [dp2704&#64;columbia.edu](mailto:dp2704@co
 ####  Technical Project Manager 
 
 What you will do:
+
  * Work directly with developing world partners and help define the technology / data systems to solve their problems.
  * Participate in some of the software engineering and data analysis as relevant.
  * Act as "translator" between field reality and the technical (software, data) domain. Balancing the two needs.
@@ -31,6 +32,7 @@ You will get to work with a great team: talented software engineers, data scient
 #### Data Scientist / Analyst
 
 What you will do:
+
  * Make sense of datasets relating to access to health, education, water and electricity in developing nations.
  * Develop data pipelines, data visualizations, analytical reports.
  * Participate in the monitoring of data collection processes, provide recommendations to improve it.
@@ -43,6 +45,7 @@ You will get to work with a great team: talented software engineers, data scient
 #### Software Engineer
 
 What you will do:
+
  * Work with exciting projects in the developing world (example domains: mobile data collection, electricity planning, smart solar mini-grids, rural healthcare).
  * Design, create, and improve open source software to solve hard problems in the developing world.
  * Joining a like-minded peer group of hackers working in python, R, go, mongodb, nodejs, and other interesting technologies, focused on making the world suck less. 
@@ -61,6 +64,7 @@ Project examples:
  * [Solar Irrigation](http://sel.columbia.edu/projects) - Smart solar irrigation in Senegal.
 
 Software examples:
+
  * [Formhub](http://formhub.org) - Mobile data collection made simple. 1000s of users, millions of surveys collected.
  * [Network Planner](http://networkplanner.modilabs.org) - Spatial planning software used for infrastructure (electrification) planning.  Used for large-scale planning in Ghana, Kenya, Senegal, Liberia and Indonesia.
  * [bamboo](http://bamboo.io) - Open Source Dynamic Data Analysis.
