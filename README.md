@@ -1,11 +1,20 @@
-Join us at the Sustainable Engineering Lab at the Earth Institute in Columbia University. 
+# We're Hiring!
 
-We build software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa, India and Haiti). We work directly with governments, non-profit organizations, and other institutions in the developing world, and help solve real-world problems with software. The problems we tackle are often related to data and data flow; the tools we build incorporate geospatial planning, open-data webservices, operational optimization algorithms, mobile phone-based data collection, data dashboards, and the like.  We are primarily a Python and Javascript shop but looking for people with a passion for software engineering above all.
+Join us at the [Sustainable Engineering Lab](http://sel.columbia.edu/) at the [Earth Institute](http://earth.columbia.edu/) in [Columbia University](http://www.columbia.edu/). 
+
+We build software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa, India and Haiti). 
+
+We work directly with governments, non-profit organizations, and other institutions in the developing world, and help solve real-world problems with software. 
+
+The problems we tackle are often related to data and data flow; the tools we build incorporate geospatial planning, open-data webservices, operational optimization algorithms, mobile phone-based data collection, data dashboards, and the like.  
+
+We use python, R, go, mongodb, nodejs/javascript primarily, but looking for people with a passion for software engineering above all.
 
 You will get to work with a dynamic team in New York, and travel to field sites in Africa, Haiti and India to develop and implement solutions with clients on the ground. This is critical to our process as we do agile development heavily based on iterative user feedback.
 
-If that excites you, send an email to dp2704 AT columbia DOT edu with a resume.
-If you're the right person for the team, that matters more than even the position we are hiring for at the moment.
+If that excites you, send an email to [dp2704&#64;columbia.edu](mailto:dp2704@columbia.edu) with a resume.
+
+*If you're the right person for the team, that matters more than the description for any particular position.*
 
 ## Official openings:
 
@@ -39,11 +48,11 @@ What you will do:
  * Joining a like-minded peer group of hackers working in python, R, go, mongodb, nodejs, and other interesting technologies, focused on making the world suck less. 
  * Travel to developing world settings, and work directly in the environments your software is deployed in.
 
-There are no sales/MBA types, no scrum masters, and we strongly disapprove of code written in Enterprise FizzBuzz style. You will work with great software engineers and data scientists, as well as experts who have been working in International Development contexts for many years.
+There are no sales/MBA types, no scrum masters, and we strongly disapprove of code written in [Enterprise FizzBuzz](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) style. You will work with great software engineers and data scientists, as well as experts who have been working in International Development contexts for many years.
 
 ## Projects
 
-Have a look at our site for some of the [projects](http://sel.columbia.edu/projects/) we are working on, and some [software tools](http://sel.columbia.edu/products-tools/) we are building to solve some of the problems we encounter.
+Have a look at [our site](http://sel.columbia.edu/) for some of the [projects](http://sel.columbia.edu/projects/) we are working on, and some [software tools](http://sel.columbia.edu/products-tools/) we are building to solve some of the problems we encounter.
 
 Project examples:
 
@@ -56,4 +65,4 @@ Software examples:
  * [Network Planner](http://networkplanner.modilabs.org) - Spatial planning software used for infrastructure (electrification) planning.  Used for large-scale planning in Ghana, Kenya, Senegal, Liberia and Indonesia.
  * [bamboo](http://bamboo.io) - Open Source Dynamic Data Analysis.
 
-More at http://sel.columbia.edu
+**More: http://sel.columbia.edu**
