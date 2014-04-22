@@ -18,12 +18,15 @@ You will get to work with a dynamic team in New York and travel to field sites i
 
 What you will do:
 
- * Work directly with developing world partners and help define the technology / data systems to solve their problems.
- * Participate in some of the software engineering and data analysis as relevant.
- * Act as "translator" between field reality and the technical (software, data) domain. Balancing the two needs.
+ * Oversee multi-disciplinary technical teams (infrastructure planning, data systems, software development) to ensure that tech solutions are in line with real-world project needs.
+ * Collaborate with developing world partners and help define the technology / data systems to solve their problems.
+ * Supervise software engineering and data analysis activities for multiple, separately-funded projects.
+ * Write grant proposals for various funding agencies (World Bank, USAID, Gates, etc.)
+ * Act as "translator" between field reality and the technical (software, data) team. Balancing the two needs.
  * Play a major part in communicating the work of the Sustainable Engineering Lab, defining direction in the projects we work on.
 
 You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced International Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
+
 
 #### Data Scientist / Analyst
 
