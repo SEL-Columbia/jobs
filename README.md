@@ -22,7 +22,7 @@ What you will do:
  * Collaborate with developing world partners and help define the technology / data systems to solve their problems.
  * Supervise software engineering and data analysis activities for multiple, separately-funded projects.
  * Write grant proposals for various funding agencies (World Bank, USAID, Gates, etc.)
- * Act as "translator" between field reality and the technical (software, data) team. Balancing the two needs.
+ * Act as "translator" between field reality and the technical (software, data) team. Balance the two needs.
  * Play a major part in communicating the work of the Sustainable Engineering Lab, defining direction in the projects we work on.
 
 You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced International Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
