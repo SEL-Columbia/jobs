@@ -18,14 +18,26 @@ You will get to work with a dynamic team in New York and travel to field sites i
 
 What you will do:
 
- * Work directly with developing world partners and help define the technology / data systems to solve their problems.
- * Participate in the software engineering and data analysis as relevant.
- * Act as "translator" between field reality and the technical (software, data) domain. Balance the two needs.
- * Play a major part in defining the direciton of the work of the Sustainable Engineering Lab, as well as communicating and representing it.
- 
-We are looking for someone with a technical background along with experience in the development context.
+ * Oversee multi-disciplinary technical teams (infrastructure planning, data systems, software development) to ensure that tech solutions are in line with real-world project needs.
+ * Collaborate with developing world partners and help define the technology / data systems to solve their problems.
+ * Supervise software engineering and data analysis activities for multiple, separately-funded projects.
+ * Write grant proposals for various funding agencies (World Bank, USAID, Gates, etc.)
+ * Act as "translator" between field reality and the technical (software, data) team. Balance the two needs.
+ * Play a major part in communicating the work of the Sustainable Engineering Lab, defining direction in the projects we work on.
 
 You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced International Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
+
+#### Embedded Systems / Electrical Engineer
+
+What you will do:
+
+ * Lead the technical electrical design and prototyping of a smart-solar AC pumping system to be installed in Senegal. 
+ * Physically integrate hardware (PV, 3-phase inverters, pump controllers) and software components of the prototype system and carry out performance tests. Experience with power electronics will be essential.
+ * Collaborate with our software developers to ensure that the system can work with our Android-based payment system.
+ * Work in New York with a taleneted and diverse team, but with short-term field visits to the site in rural Senegal.
+
+This is a unique opportunity to work on a USAID-funded innovation project to address the increasingly relevant water-energy nexus. More info about the project can be found on our blog (http://sel.columbia.edu/category/smart-solar-irrigation/).
+ 
 
 #### Data Scientist / Analyst
 
