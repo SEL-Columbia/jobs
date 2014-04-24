@@ -36,7 +36,7 @@ What you will do:
  * Collaborate with our software developers to ensure that the system can work with our Android-based payment system.
  * Work in New York with a taleneted and diverse team, but with short-term field visits to the site in rural Senegal.
 
-This is a unique opportunity to work on a USAID-funded innovation project to address the increasingly relevant water-energy nexus. More info about the project can be found on [our blog](http://sel.columbia.edu/category/smart-solar-irrigation/).
+This is a unique opportunity to work on a USAID-funded innovation project to address the increasingly relevant water-energy nexus. More info about the project can be found on our blog (http://sel.columbia.edu/category/smart-solar-irrigation/).
  
 
 #### Data Scientist / Analyst
