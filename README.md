@@ -14,6 +14,18 @@ You will get to work with a dynamic team in New York and travel to field sites i
 
 ## Official openings:
 
+#### Embedded Systems / Electrical Engineer
+
+What you will do:
+
+ * Lead the technical electrical design and prototyping of a smart-solar AC pumping system to be installed in Senegal. 
+ * Physically integrate hardware (PV, 3-phase inverters, pump controllers) and software components of the prototype system and carry out performance tests. Experience with power electronics will be essential.
+ * Collaborate with our software developers to ensure that the system can work with our Android-based payment system.
+ * Work in New York with a taleneted and diverse team, but with short-term field visits to the site in rural Senegal.
+
+This is a unique opportunity to work on a USAID-funded innovation project to address the increasingly relevant water-energy nexus. More info about the project can be found on our blog (http://sel.columbia.edu/senegal-solar-irrigation-project-launch/). 
+ 
+
 ####  Technical Project Manager 
 
 What you will do:
