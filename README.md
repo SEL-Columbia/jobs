@@ -1,6 +1,6 @@
 # We're Hiring!
 
-Join us at the Sustainable Engineering Lab at the [Earth Institute](http://earth.columbia.edu/) in [Columbia University](http://www.columbia.edu/). 
+Join us at the [Sustainable Engineering Lab](http://sel.columbia.edu) at the Earth Institute in Columbia University. 
 
 We solve real-world problems in the developing world; we build software to make development process smarter and to bring new services, like health and energy, to people that need them most. We primarily focus our efforts in Africa, India and Haiti.  
 
