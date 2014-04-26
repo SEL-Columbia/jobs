@@ -4,13 +4,11 @@ Join us at the [Sustainable Engineering Lab](http://sel.columbia.edu) at the Ear
 
 We solve real-world problems in the developing world; we build software to make development process smarter and to bring new services, like health and energy, to people that need them most. We primarily focus our efforts in Africa, India and Haiti.  
 
-The problems we tackle are often related to data and data flow; the tools we build incorporate geospatial planning, open-data webservices, operational optimization algorithms, mobile phone-based data collection, data dashboards and the like.  
-
-We use python, R, go, mongodb, nodejs/javascript primarily, but above all, we're looking for people who are passionate about software engineering in a development context.
+The problems we tackle are often related to data and data flow; the tools we build incorporate geospatial planning, open-data webservices, operational optimization algorithms, mobile phone-based data collection, data dashboards and the like.  We use python, R, go, mongodb, nodejs/javascript, but above all, we're looking for people who are passionate about software engineering in a development context.
 
 You will get to work with a dynamic team in New York and travel to field sites in Africa, Haiti and India to develop and implement solutions with clients on the ground. This is critical to our process as we do agile development heavily based on iterative user feedback.
 
-*The right person for the team matters more than the description for any particular position. If that excites you, send an email to [dp2704&#64;columbia.edu](mailto:dp2704@columbia.edu) with a resume.*
+*The right person for the team matters more than the description for any particular position. If that excites you, send an email to [dp2704&#64;columbia.edu](mailto:dp2704@columbia.edu) with a resume. Columbia University is an affirmative action/equal opportunity employer. Minorities and women are encouraged to apply.*
 
 ## Official openings:
 
