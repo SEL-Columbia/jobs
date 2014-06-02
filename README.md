@@ -35,20 +35,6 @@ What you will do:
  * Work in New York with a taleneted and diverse team, but with short-term field visits to the site in rural Senegal.
 
 This is a unique opportunity to work on a USAID-funded innovation project to address the increasingly relevant water-energy nexus. More info about the project can be found on our blog (http://sel.columbia.edu/category/smart-solar-irrigation/).
- 
-
-#### Data Scientist / Analyst
-
-What you will do:
-
- * Make sense of datasets relating to access to health, education, water and electricity in developing nations.
- * Develop data pipelines, data visualizations, analytical reports.
- * Participate in the monitoring of data collection processes, provide recommendations to improve it.
- * Interact directly with partners in developing nations to create data solutions to their needs.
- * Participate in training data teams at partner organizations, "transfer" your work.
- * Document your work excellently, make it reproducible and write how-to articles when relevant
-
-You will get to work with a great team: talented software engineers, data scientists and GIS analysts, as well as experienced International Dev experts in energy, water, and infrastructures. There is a lot to learn from this diverse team about both software and data, as well as about International Development.
 
 #### Software Engineer
 
